@@ -1,0 +1,6 @@
+framework module SSExtension {
+  umbrella header "SSExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

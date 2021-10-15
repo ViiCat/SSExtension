@@ -1,0 +1,22 @@
+{
+  "name": "SSExtension",
+  "version": "0.1.0",
+  "summary": "A short description of SSExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liujie/SSExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liujie": "liujie@duckdake.com"
+  },
+  "source": {
+    "git": "https://github.com/liujie/SSExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SSExtension/Classes/**/*"
+}
