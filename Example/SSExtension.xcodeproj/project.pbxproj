@@ -29,7 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0B9F879E34F678A6D4ABA86B /* SSExtension.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SSExtension.podspec; path = ../SSExtension.podspec; sourceTree = "<group>"; };
+		0B9F879E34F678A6D4ABA86B /* SSExtension.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SSExtension.podspec; path = ../SSExtension.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		354182B72719331800B09C2E /* SSTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SSTest.swift; path = ../../SSExtension/Classes/SSTest.swift; sourceTree = "<group>"; };
 		4F3BB33EC362CDAF10F5A723 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		55DDC74DF8ECD43FDD3AAB3E /* Pods_SSExtension_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SSExtension_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };

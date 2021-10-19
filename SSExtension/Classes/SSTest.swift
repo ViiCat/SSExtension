@@ -8,8 +8,8 @@
 
 import UIKit
 
-class SSTest: NSObject {
-    func ssPrintMethod(msg: String) {
+public class SSTest: NSObject {
+    public func ssPrintMethod(msg: String) {
         print(">>>>>打印:\(msg)")
     }
 }
